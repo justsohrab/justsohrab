@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hello! I am an experienced and responsible developer with nine years of experience in requirement engineering and server-side programming. My areas of expertise include .NET web/desktop development, memory management, and identifying a project's bottlenecks.<br><br>You can check out my LinkedIn profile to see my experience working alongside colleagues and business owners on a variety of projects - from international to national-level and even small local businesses. Each project has helped me get one step closer to achieving my goal of becoming an efficient programmer.
+👋I am an experienced and responsible developer with nine years of experience in requirement engineering and server-side programming. My areas of expertise include .NET web/desktop development, memory management, and identifying a project's bottlenecks.<br><br>You can check out my LinkedIn profile to see my experience working alongside colleagues and business owners on a variety of projects - from international to national-level and even small local businesses. Each project has helped me get one step closer to achieving my goal of becoming an efficient programmer.
 
 
 ## 🌐 Socials:
